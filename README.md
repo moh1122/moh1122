@@ -41,19 +41,6 @@ I specialize in building scalable digital platforms, AI-driven solutions, and en
 
 ---
 
-## 📌 Featured Projects
-
-### 📊 Lira Exchange
-Real-time exchange rate platform and mobile app focused on Lebanon's financial market.
-
-### 🤖 EduPulse AI
-AI-powered autonomous student success agent using Gemini AI and analytics workflows.
-
-### ₿ Bitcoin the Digital Gold
-Bitcoin tracking app featuring AI insights, widgets, and market analytics.
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamad%20Masri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadmasri-ios/)
@@ -66,9 +53,3 @@ Bitcoin tracking app featuring AI insights, widgets, and market analytics.
 I enjoy building systems that combine AI, cloud infrastructure, and real-world scalability challenges.
 
 ---
-
-## 📊 GitHub Stats
-
-![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
