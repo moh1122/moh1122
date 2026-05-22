@@ -6,17 +6,6 @@ I specialize in building scalable digital platforms, AI-driven solutions, and en
 
 ---
 
-## 💼 Professional Experience Highlights
-
-- 13+ years in Software Engineering & Infrastructure
-- Senior Solutions Engineer at CYPHER Learning
-- Built and supported enterprise LMS systems at national scale
-- Supported 150K+ concurrent users
-- 35+ published iOS applications
-- Expertise in AWS, Azure, Kubernetes, DevOps & scalable SaaS architectures
-
----
-
 # 🛠️ Tech Stack
 
 ## Languages & Frameworks
