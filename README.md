@@ -13,7 +13,7 @@ I specialize in building scalable digital platforms, AI-driven solutions, and en
 - Built and supported enterprise LMS systems at national scale
 - Supported 150K+ concurrent users
 - 35+ published iOS applications
-- Expertise in Azure, Kubernetes, DevOps & scalable SaaS architectures
+- Expertise in AWS, Azure, Kubernetes, DevOps & scalable SaaS architectures
 
 ---
 
@@ -101,11 +101,5 @@ I specialize in building scalable digital platforms, AI-driven solutions, and en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamad%20Masri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadmasri-ios/)
 [![App Store](https://img.shields.io/badge/App_Store-Apps-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/developer/mohammad-masri/id975614455)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building systems that combine AI, cloud infrastructure, and real-world scalability challenges.
 
 ---
