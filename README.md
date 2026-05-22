@@ -88,7 +88,7 @@ I specialize in building scalable digital platforms, AI-driven solutions, and en
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamad%20Masri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadmasri-ios/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamad%20El%20Masri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadmasri-ios/)
 [![App Store](https://img.shields.io/badge/App_Store-Apps-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/developer/mohammad-masri/id975614455)
 
 ---
