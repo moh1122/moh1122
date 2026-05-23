@@ -1,4 +1,4 @@
-# Hi, I'm Moe Masri 👋
+# Hi, I'm Moe El Masri 👋
 
 Senior Solutions Engineer | iOS Developer | AI & Cloud Enthusiast
 
