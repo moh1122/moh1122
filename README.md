@@ -1,7 +1,5 @@
 # Hi, I'm Moh El Masri 👋
 
-**Senior Solutions Engineer | Senior iOS Engineer**
-
 I turn complex business requirements into practical technical solutions and build native iOS apps from concept to App Store release.
 
 My work spans enterprise learning platforms, solution architecture, API integrations, and cloud services. Alongside this, I develop and maintain **35+ published iOS apps** across finance, utilities, and games—showcased at **[iosapps.cloud](https://iosapps.cloud)**.
