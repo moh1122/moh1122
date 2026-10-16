@@ -23,5 +23,3 @@ Interested in practical applications of AI, automation, and Bitcoin.
 [![Website](https://img.shields.io/badge/Website-iosapps.cloud-18181B?style=for-the-badge&logo=safari&logoColor=white)](https://iosapps.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moh%20El%20Masri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadmasri-ios/)
 [![App Store](https://img.shields.io/badge/App_Store-Explore%20My%20Apps-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/developer/mohammad-masri/id975614455)
-
-[Medium](https://medium.com/@moemasri86) · [Email](mailto:mmasri@email.com)
