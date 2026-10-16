@@ -1,14 +1,27 @@
-# Hi, I'm Moe El Masri 👋
+# Hi, I'm Moh El Masri 👋
 
-Senior Solutions Engineer | iOS Developer | AI & Cloud Enthusiast
+**Senior Solutions Engineer | Senior iOS Engineer**
 
-I specialize in building scalable digital platforms, AI-driven solutions, and enterprise learning ecosystems across education, fintech, and cloud infrastructure.
+I turn complex business requirements into practical technical solutions and build native iOS apps from concept to App Store release.
+
+My work spans enterprise learning platforms, solution architecture, API integrations, and cloud services. Alongside this, I develop and maintain **35+ published iOS apps** across finance, utilities, and games—showcased at **[iosapps.cloud](https://iosapps.cloud)**.
+
+## What I Work On
+
+- **Native iOS development:** Swift, SwiftUI, UIKit, modular architecture, and offline-first experiences.
+- **Enterprise solutions:** Technical discovery, solution design, platform integrations, and translating business needs into implementation plans.
+- **Product delivery:** Architecture, development, testing, App Store releases, and ongoing maintenance.
+
+Interested in practical applications of AI, automation, and Bitcoin.
+
+**Available for selected app development and technology consulting engagements, including larger projects and ongoing collaborations.**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Apps & Connections
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamad%20El%20Masri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadmasri-ios/)
-[![App Store](https://img.shields.io/badge/App_Store-Apps-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/developer/mohammad-masri/id975614455)
+[![Website](https://img.shields.io/badge/Website-iosapps.cloud-18181B?style=for-the-badge&logo=safari&logoColor=white)](https://iosapps.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moh%20El%20Masri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadmasri-ios/)
+[![App Store](https://img.shields.io/badge/App_Store-Explore%20My%20Apps-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/developer/mohammad-masri/id975614455)
 
----
+[Medium](https://medium.com/@moemasri86) · [Email](mailto:mmasri@email.com)
