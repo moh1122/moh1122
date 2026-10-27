@@ -10,8 +10,7 @@ Native apps. Thoughtful architecture. From idea to App Store.
 [![Followers](https://img.shields.io/github/followers/moh1122?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)](https://github.com/moh1122?tab=followers)
 [![Stars](https://img.shields.io/github/stars/moh1122?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)](https://github.com/moh1122?tab=repositories)
 
-[Portfolio](https://iosapps.cloud) · [App Store](https://apps.apple.com/developer/mohammad-masri/id975614455) · [LinkedIn](https://www.linkedin.com/in/mohammadmasri-ios/) · [Email](mailto:mmasri@email.com)
-
+[Portfolio](https://iosapps.cloud) · [App Store](https://apps.apple.com/developer/mohammad-masri/id975614455) · [LinkedIn](https://www.linkedin.com/in/mohammadmasri-ios/)
 </div>
 
 ---
